@@ -15,7 +15,7 @@
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=shades-of-purple)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=shades-of-purple" alt="GitHub Streak"></a>
 </div>
   
 <!-- metrics 基础资料 -->
