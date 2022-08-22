@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=A592F7&center=true&width=435&lines=%E4%B8%80++%E5%8F%AA++%E5%A4%A7++%E8%83%BD++%E7%8C%AB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=A592F7&center=true&width=435&lines=%E4%B8%80++%E5%8F%AA++%E5%A4%A7++%E8%83%BD++%E7%8C%AB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   
 <!-- metrics 基础资料 -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/YiZhiDaNengMao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
+  <img src="https://metrics.lecoq.io/YiZhiDaNengMao?template=classic&stargazers=1&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=6&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FShanghai" alt="Metrics">
 </div>
 
 <!-- GitHub奖杯🏆 -->
