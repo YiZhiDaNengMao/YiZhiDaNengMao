@@ -24,7 +24,10 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiZhiDaNengMao&theme=shades-of-purple" />
 </div>
 
+
 <div align="center">
   <img src="https://metrics.lecoq.io/YiZhiDaNengMao?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 </div>
 
+<!-- GitHub 活动统计图 -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YiZhiDaNengMao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
