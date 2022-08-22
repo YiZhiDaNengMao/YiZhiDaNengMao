@@ -35,4 +35,6 @@
 </div>
 
 <!-- GitHub 活动统计图 -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YiZhiDaNengMao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=YiZhiDaNengMao&theme=dracula" alt="Ashutosh&#39;s github activity graph"></a>
+</div>
