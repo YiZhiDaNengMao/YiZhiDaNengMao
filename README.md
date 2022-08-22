@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://一只大能猫.run/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=蔚の将星(%22Hello%2C%20World!%22);一只大能猫!&center=true&size=26">
+    <h1 color="#8F77B5" 一只大能猫!></h1>
   </a>
 </h1>
 
