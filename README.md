@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A592F7&center=true&width=435&lines=%E4%B8%80++%E5%8F%AA++%E5%A4%A7++%E8%83%BD++%E7%8C%AB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=A592F7&center=true&width=435&lines=%E4%B8%80++%E5%8F%AA++%E5%A4%A7++%E8%83%BD++%E7%8C%AB" alt="Typing SVG" />
   </a>
 </div>
 
