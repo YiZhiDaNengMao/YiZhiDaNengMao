@@ -5,13 +5,12 @@
   </a>
 </div>
 
+<!--
 <span >
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+-->
 
 <!-- 访客数统计徽标 
 <div align="right"><img src="https://visitor-badge.glitch.me/badge?page_id=YiZhiDaNengMao" alt="访客统计" /></div>
@@ -27,6 +26,7 @@
 <div align="center">
   <img src="https://metrics.lecoq.io/YiZhiDaNengMao?template=classic&stargazers=1&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=6&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FShanghai" alt="Metrics">
 </div>
+
 
 <!-- GitHub奖杯🏆 
 <div align="center">
