@@ -21,28 +21,22 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=shades-of-purple" alt="GitHub Streak"></a>
 </div>
 -->
-  
-<!-- metrics 基础资料 -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/YiZhiDaNengMao?template=classic&stargazers=1&isocalendar=1&anilist=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=6&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&config.timezone=Asia%2FShanghai" alt="Metrics">
-</div>
 
-
-<!-- GitHub奖杯🏆 
+<!-- GitHub奖杯🏆 -->
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
--->
 
-<!-- GitHub数据统计 
+
+<!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YiZhiDaNengMao&theme=shades-of-purple" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiZhiDaNengMao&theme=shades-of-purple" />
 </div>
--->
 
-<!-- GitHub 活动统计图 
+
+<!-- GitHub 活动统计图 -->
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=YiZhiDaNengMao&theme=dracula" alt="Ashutosh&#39;s github activity graph"></a>
 </div>
--->
+
